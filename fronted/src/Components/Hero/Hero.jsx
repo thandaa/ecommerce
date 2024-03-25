@@ -8,7 +8,7 @@ import hero_imgae from '../Assets/hero_image.png'
 const Hero = () => {
     return (
         <div className="hero">
-            <div className="hero-content">
+            
             <div className="hero-left">
                 <h2>New ARRIVALS ONLY</h2>
                 <div>
@@ -30,7 +30,7 @@ const Hero = () => {
                 <img src={hero_imgae} alt="" />
             </div> 
         </div>
-        </div>    
+        
 
     )
 }

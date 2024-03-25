@@ -22,7 +22,7 @@
 
 .hero-right {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     flex:1;
 }
